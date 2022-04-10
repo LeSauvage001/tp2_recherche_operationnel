@@ -1,0 +1,1 @@
+l’objectif 112 car on cherche a maximiser le nombre de passager restant sur l’avion.
